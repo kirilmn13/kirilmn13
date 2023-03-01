@@ -16,10 +16,12 @@ Feel free to contact me:
 
 I am a Physicist specialized in Data Science and Machine Learning in addition to Big Data Ecosystems. I found in this work links between two of my passions: Natural Science and Technology. 
 
-- 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+Expertise:
+
+- 📭 Machine learning models in context of Financial clients.
+- 💬 Master Data Managment and Data modeling
+- 😄 Geospatial Analytics core
+- 👾 NLP and Computer vision for entity extraction
 
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 

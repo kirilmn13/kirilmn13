@@ -107,7 +107,7 @@ My objective is to be able to share and motivate people who feel a strong concer
 
 ### 🗣 My studies
 
-[<img align="left" height="94px" width="94px" alt="Universitat Oberta Catalunya" src="https://github.com/kirilmn13/kirilmn13/blob/main/escudoUOC.jpg"/>] (https://www.uoc.edu/portal/es/index.html)
+[<img align="left" height="94px" width="94px" alt="Universitat Oberta Catalunya" src="https://github.com/kirilmn13/kirilmn13/blob/main/escudoUOC.jpg"/>] 
 **Master in Data Science and AI** 
 
 ---

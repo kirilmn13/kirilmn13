@@ -21,11 +21,12 @@ Class Kiril:
 ***
 
 <h4>Cloud Platforms</h4>
+***
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-***
+
 
 <h4>Databases</h4>
 <p>

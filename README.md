@@ -9,10 +9,10 @@ Class Kiril:
 ```
 
 
-[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kirilmn13@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiril-morozov-data "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-kirilmn13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kirilmn13@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-KirilData%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiril-morozov-data "Connect on LinkedIn")
 
-<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+<a href="https://samujjwaal.me/"><img src="https://github.com/kirilmn13/kirilmn13/blob/main/descarga%20(2).png" align="right" height="275" /></a>
 
 I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 

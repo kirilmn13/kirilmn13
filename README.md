@@ -7,14 +7,14 @@ Class Kiril:
   self.surname = "MOROZOV"  
   
 ```
-
+Feel free to contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-kirilmn13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kirilmn13@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-KirilData%20-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiril-morozov-data "Connect on LinkedIn")
 
 <a href="[https://samujjwaal.me/](https://github.com/kirilmn13/kirilmn13/blob/main/descarga%20(2).png)"><img src="https://github.com/kirilmn13/kirilmn13/blob/main/descarga%20(2).png" align="right" height="275" /></a>
 
-I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a Physicist specialized in Data Science and Machine Learning in addition to Big Data Ecosystems. I found in this work links between two of my passions: Natural Science and Technology. 
 
 - 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between

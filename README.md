@@ -123,6 +123,7 @@ I also enjoy doing photos and sometimes work as a photographer. You can find som
 
 **Physics** 
 
+
 </br>
 ---
 
@@ -130,6 +131,7 @@ I also enjoy doing photos and sometimes work as a photographer. You can find som
 
 **Advanced Physics with specialization on Computer physics** 
 
+</br>
  
 
 

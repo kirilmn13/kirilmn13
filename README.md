@@ -48,9 +48,6 @@ Class Kiril:
    <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-
-***
-
 <h4> CI / CD</h4>
 
 ***

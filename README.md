@@ -107,9 +107,9 @@ My objective is to be able to share and motivate people who feel a strong concer
 
 ### 🗣 Veronica as speaker
 
-[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/04/bf/63/04bf633d-c2d9-032c-46e7-a92fe2208ab1/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-10.png/1024x1024.jpg"/>](https://www.instagram.com/tv/CZzVgSdFGU1/?igshid=MDJmNzVkMjY%3D) 
+[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://github.com/kirilmn13/kirilmn13/blob/main/escudoUOC.jpg"/>]
 **Technology has no gender** \
-Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see](https://www.instagram.com/tv/CZzVgSdFGU1/) 
+Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see]
 
 ---
 [<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://www.um.es/documents/1995586/0/escudo_umu1.jpg/16e71244-f661-5938-8113-e8c0ac0b16a6?t=1622301262482"/>]

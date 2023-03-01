@@ -108,15 +108,15 @@ My objective is to be able to share and motivate people who feel a strong concer
 ### 🗣 My studies
 
 [<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://github.com/kirilmn13/kirilmn13/blob/main/escudoUOC.jpg"/>]
-**Master in Data Science and AI** \
+**Master in Data Science and AI** 
 
 ---
 [<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://www.um.es/documents/1995586/0/escudo_umu1.jpg/16e71244-f661-5938-8113-e8c0ac0b16a6?t=1622301262482"/>]
-**Physics** \
+**Physics** 
 
 ---
-[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="http://portal.uned.es/pls/portal/docs/1/34843980.JPG"/>](https://www.instagram.com/tv/CZzVgSdFGU1/?igshid=MDJmNzVkMjY%3D) 
-**Advanced Physics with specialization on Computer physics** \
+[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="http://portal.uned.es/pls/portal/docs/1/34843980.JPG"/>]
+**Advanced Physics with specialization on Computer physics** 
 </br>
  
 

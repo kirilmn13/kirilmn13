@@ -106,7 +106,7 @@ My objective is to be able to share and motivate people who feel a strong concer
 </br>
 
 ### 🗣 Veronica as speaker
-[<img align="left" height="94px" width="94px" alt="Coders" src="[http://www.emperiial.de/wp-content/uploads/2020/01/9xEsZ-ph_400x400.jpg](https://commons.wikimedia.org/wiki/File:Logo_UOC.svg)"/>](https://www.instagram.com/p/CcBYOECjp6s/) 
+[<img align="left" height="94px" width="94px" alt="Coders" src="[]
 **Colloquium of Women for Change 👩‍💻CODERS** \
 Talk to inspire future generations about great opportunities
 that offers the figure of women in technology and Esports sectors [Click to see](https://www.instagram.com/p/CcBYOECjp6s/) 
@@ -117,7 +117,7 @@ that offers the figure of women in technology and Esports sectors [Click to see]
 Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see](https://www.instagram.com/tv/CZzVgSdFGU1/) 
 
 ---
-[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"/>](https://www.youtube.com/watch?v=MEkkblYUEOM) 
+[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://github.com/kirilmn13/kirilmn13/blob/main/escudoUOC.jpg"/>](https://www.youtube.com/watch?v=MEkkblYUEOM) 
 **The Future of Women in Tech Summit | Banco Santander & Mongo DB** \
 A session led by inspiring women that have built a successful career in the IT sector. We will break stereotypes and gender barriers, reinforce the value of diversity for business innovation, and help you get ready to lead the future. [Click to see](https://www.youtube.com/watch?v=MEkkblYUEOM) 
 

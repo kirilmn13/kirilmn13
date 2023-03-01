@@ -116,17 +116,20 @@ I also enjoy doing photos and sometimes work as a photographer. You can find som
 </br>
 
 <img align="left" height="94px" width="94px" alt="Universitat Oberta Catalunya" src="https://github.com/kirilmn13/kirilmn13/blob/main/escudoUOC.jpg"/>
-**Master in Data Science and AI** 
 
+**Master in Data Science and AI** 
+***
 </br>
 
 <img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://www.um.es/documents/1995586/0/escudo_umu1.jpg/16e71244-f661-5938-8113-e8c0ac0b16a6?t=1622301262482"/>
+
 **Physics** 
 
 
 </br>
 
 <img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="http://portal.uned.es/pls/portal/docs/1/34843980.JPG"/>
+
 **Advanced Physics with specialization on Computer physics** 
 
 </br>

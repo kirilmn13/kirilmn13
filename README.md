@@ -1,4 +1,4 @@
-<!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
+## Hi there, I'm:
 
 ```shell
 Class Kiril:
@@ -7,6 +7,22 @@ Class Kiril:
   self.surname = "MOROZOV"  
   
 ```
+
+
+[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kirilmn13@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiril-morozov-data "Connect on LinkedIn")
+
+<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+
+I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+
+- 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
+- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
+- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+
+<!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
+
 
 <h3>
   🚀 Principal Stack

@@ -105,21 +105,18 @@ Expertise:
 My objective is to be able to share and motivate people who feel a strong concern for development, programming and the technology sector. I have always been able to transmit good feelings when communicating with others and I am always willing to help, that is why I enjoy providing the necessary information to all those interested in technology. <a href="https://www.instagram.com/veritechie" target="_blank">We are almost already 80K!</a>
 </br>
 
-### 🗣 Veronica as speaker
+### 🗣 My studies
 
 [<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://github.com/kirilmn13/kirilmn13/blob/main/escudoUOC.jpg"/>]
-**Technology has no gender** \
-Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see]
+**Master in Data Science and AI** \
 
 ---
 [<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://www.um.es/documents/1995586/0/escudo_umu1.jpg/16e71244-f661-5938-8113-e8c0ac0b16a6?t=1622301262482"/>]
-**The Future of Women in Tech Summit | Banco Santander & Mongo DB** \
-A session led by inspiring women that have built a successful career in the IT sector. We will break stereotypes and gender barriers, reinforce the value of diversity for business innovation, and help you get ready to lead the future. [Click to see](https://www.youtube.com/watch?v=MEkkblYUEOM) 
+**Physics** \
 
 ---
 [<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="http://portal.uned.es/pls/portal/docs/1/34843980.JPG"/>](https://www.instagram.com/tv/CZzVgSdFGU1/?igshid=MDJmNzVkMjY%3D) 
-**Technology has no gender** \
-Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see](https://www.instagram.com/tv/CZzVgSdFGU1/) 
+**Advanced Physics with specialization on Computer physics** \
 </br>
  
 

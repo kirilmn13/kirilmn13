@@ -101,7 +101,7 @@ Expertise:
 - MEAN Stack Course (With official certificate in MongoDB)
 </br>
 
-### <a href="https://www.instagram.com/kirilmbphoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/veritechie" target="_blank">KirilMBPhoto</a>
+### <a href="https://www.instagram.com/kirilmbphoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/kirilmbphoto/" target="_blank">KirilMBPhoto</a>
 I also enjoy doing photos and sometimes work as a photographer. You can find some of my work in Instagram</a>
 </br>
 

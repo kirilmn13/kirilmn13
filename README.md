@@ -41,6 +41,18 @@ Expertise:
   <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=FFFFFF&style=for-the-badge">
   
 </p>
+<h3>
+  🚀 Principal Stack
+</h3> 
+
+***
+
+<p>
+
+  <img src="https://img.shields.io/badge/-Python-407daf?logo=python&logoColor=ffd449&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=FFFFFF&style=for-the-badge">
+  
+</p>
 <h4>Cloud Platforms</h4>
 
 ***

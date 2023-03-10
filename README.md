@@ -36,7 +36,7 @@ Expertise:
 ***
 
 <p>
-  <img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?logo=Microsoft Azure&logoColor=FFFFFF&style=for-the-badge">
+
   <img src="https://img.shields.io/badge/-Python-407daf?logo=python&logoColor=ffd449&style=for-the-badge">
   <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=FFFFFF&style=for-the-badge">
   
@@ -46,6 +46,7 @@ Expertise:
 ***
 
 <p>
+  <img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?logo=Microsoft Azure&logoColor=FFFFFF&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=Amazon AWS&logoColor=d5bc44&style=for-the-badge">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   

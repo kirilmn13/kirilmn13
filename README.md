@@ -42,15 +42,17 @@ Expertise:
   
 </p>
 <h3>
-  🚀 Principal Stack
+  🚀 Data engineering
 </h3> 
 
 ***
 
 <p>
 
-  <img src="https://img.shields.io/badge/-Python-407daf?logo=python&logoColor=ffd449&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=FFFFFF&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Apache Spark-E25A1C?logo=Apache Spark&logoColor=FFFFFF&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Apache Airflow-017CEE?logo=Apache Airflow&logoColor=FFFFFF&style=for-the-badge">
+
+
   
 </p>
 <h4>Cloud Platforms</h4>

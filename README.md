@@ -67,7 +67,7 @@ Expertise:
 <p>
   
  <img src="ttps://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=FFFFFF&style=for-the-badge">
- <img src="ttps://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=FFFFFF&style=for-the-badge"
+ <img src="ttps://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=FFFFFF&style=for-the-badge">
  <img src="https://img.shields.io/badge/-SKLEARN-F7931E?logo=scikit-learn&logoColor=FFFFFF&style=for-the-badge">
   
 </p>

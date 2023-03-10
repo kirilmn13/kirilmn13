@@ -57,6 +57,9 @@ Expertise:
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
    <img src="https://img.shields.io/badge/-Teradata-F37440?logo=Teradata&logoColor=FFFFFF&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=FFFFFF&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?logo=Microsoft SQL Server&logoColor=FFFFFF&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Neo4j-4581C3?logo=Neo4j&logoColor=FFFFFF&style=for-the-badge">
  
 </p>
 <h4>Machine Learning Stack</h4>

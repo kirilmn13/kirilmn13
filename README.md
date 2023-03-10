@@ -37,9 +37,8 @@ Expertise:
 
 <p>
   <img src="https://img.shields.io/badge/-Python-407daf?logo=python&logoColor=ffd449&style=for-the-badge">
-  <img src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=FFFFFF&style=for-the-badge">
+  
 </p>
 <h4>Cloud Platforms</h4>
 

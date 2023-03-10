@@ -57,6 +57,9 @@ Expertise:
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+  <img src=" https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white">
+  <img src=" https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white">
+ 
 </p>
 <h4>Machine Learning Stack</h4>
 
@@ -86,6 +89,8 @@ Expertise:
 <p>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white">
+  
 
 </p>
 </br>

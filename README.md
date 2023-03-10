@@ -94,6 +94,10 @@ Expertise:
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/-LaTeX-008080?logo=LaTeX&logoColor=FFFFFF&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=Streamlit&logoColor=FFFFFF&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Miro-050038?logo=Miro&logoColor=FFFFFF&style=for-the-badge">
+
+
   
 
 </p>
